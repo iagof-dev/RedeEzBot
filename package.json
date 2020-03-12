@@ -1,0 +1,11 @@
+{
+  "name": "Rede-Ez",
+  "author": "N3rdy Designer",
+  "main": "bot.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fstorm": "latest",
+    "jimp": "latest"
+  }
+}
